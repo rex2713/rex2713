@@ -63,24 +63,12 @@
 
 ## Experience
 
-```
-2024/11 ~ 現在   翰林教育科技        前端工程師    — Micro Frontends / Phaser 遊戲 / CI/CD
-2024/05 ~ 2024/11 AI 人工智慧基金會  前端工程師    — AI Chatbot / Next.js SSR
-2023/11 ~ 2024/02 緯育大學        前端開發助教   — React / MERN Stack
-2019/02 ~ 2023/09 Evolution       國際業務      — 跨國業務規劃與執行
-```
+| 期間              | 公司                 | 主要工作                                |
+|-------------------|----------------------|-----------------------------------------|
+| 2024/11 ~ 現在    | **翰林教育科技**      | Micro Frontends / Phaser 遊戲 / CI/CD   |
+| 2024/05 ~ 2024/11 | **AI 人工智慧基金會** | AI Chatbot / Next.js SSR                |
+| 2023/11 ~ 2024/02 | **台北商業大學**      | React / MERN Stack                      |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rex2713&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex2713&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
 
 ---
 
